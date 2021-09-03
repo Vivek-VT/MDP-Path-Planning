@@ -8,4 +8,3 @@ https://www.youtube.com/watch?v=RUi9G9CDc_M&feature=youtu.be
 Project Contributors: 
 1. Vivek Srinivasan - https://www.linkedin.com/in/vivek-srinivasan-vt/ 
 2. Shivam Chourey - https://www.linkedin.com/in/shivamchourey/
-3. Nilesh Dama
